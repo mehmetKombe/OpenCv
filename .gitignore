@@ -1,0 +1,13 @@
+# Sanal ortam
+.venv/
+
+# Derlenmiş dosyalar
+__pycache__/
+*.pyc
+
+# VSCode ayarları (isteğe bağlı)
+.vscode/
+
+# Geçici dosyalar
+.DS_Store
+*.log
